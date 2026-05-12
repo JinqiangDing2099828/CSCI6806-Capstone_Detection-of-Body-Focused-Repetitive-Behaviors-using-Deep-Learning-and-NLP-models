@@ -1,0 +1,74 @@
+[
+    {
+        "timestamp": "2026-03-30 00:16:57",
+        "model": "GRU",
+        "binary_f1": 0.9211873080859775,
+        "macro_f1": 0.8895604437108855,
+        "accuracy": 0.8986175115207373,
+        "threshold": 0.3,
+        "epochs": 20,
+        "batch_size": 128,
+        "learning_rate": 0.001,
+        "notes": "Model 7 GRU run"
+    },
+    {
+        "timestamp": "2026-03-30 00:27:26",
+        "model": "GRU",
+        "binary_f1": 0.9211873080859775,
+        "macro_f1": 0.8895604437108855,
+        "accuracy": 0.8986175115207373,
+        "threshold": 0.3,
+        "epochs": 20,
+        "batch_size": 128,
+        "learning_rate": 0.001,
+        "notes": "Model 7 GRU experiment"
+    },
+    {
+        "timestamp": "2026-03-30 00:35:39",
+        "model": "GRU",
+        "binary_f1": 0.9211873080859775,
+        "macro_f1": 0.8895604437108855,
+        "accuracy": 0.8986175115207373,
+        "threshold": 0.3,
+        "epochs": 20,
+        "batch_size": 128,
+        "learning_rate": 0.001,
+        "notes": "Model 7 GRU experiment"
+    },
+    {
+        "timestamp": "2026-03-30 00:44:43",
+        "model": "GRU",
+        "binary_f1": 0.9211873080859775,
+        "macro_f1": 0.8895604437108855,
+        "accuracy": 0.8986175115207373,
+        "threshold": 0.3,
+        "epochs": 20,
+        "batch_size": 128,
+        "learning_rate": 0.001,
+        "notes": "Model 7 GRU experiment"
+    },
+    {
+        "timestamp": "2026-03-30 07:11:33",
+        "model": "GRU",
+        "binary_f1": 0.9211873080859775,
+        "macro_f1": 0.8895604437108855,
+        "accuracy": 0.8986175115207373,
+        "threshold": 0.3,
+        "epochs": 20,
+        "batch_size": 128,
+        "learning_rate": 0.001,
+        "notes": "Model 7 GRU experiment"
+    },
+    {
+        "timestamp": "2026-03-30 07:20:21",
+        "model": "GRU",
+        "binary_f1": 0.9211873080859775,
+        "macro_f1": 0.8895604437108855,
+        "accuracy": 0.8986175115207373,
+        "threshold": 0.3,
+        "epochs": 20,
+        "batch_size": 128,
+        "learning_rate": 0.001,
+        "notes": "Model 7 GRU experiment"
+    }
+]

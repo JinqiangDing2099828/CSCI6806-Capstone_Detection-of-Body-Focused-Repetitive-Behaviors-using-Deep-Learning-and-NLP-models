@@ -1,0 +1,39 @@
+{
+  "model_name": "Model 9 LSTM + Attention",
+  "config": {
+    "random_seed": 42,
+    "batch_size": 64,
+    "epochs": 20,
+    "lr": 0.001,
+    "hidden_dim": 128,
+    "num_layers": 1,
+    "dropout": 0.2,
+    "input_dim": 332,
+    "num_classes": 18
+  },
+  "final_metrics": {
+    "acc": 0.6034255599472991,
+    "macroF1": 0.6009254774139027,
+    "binaryF1": 0.9725814795654423
+  },
+  "class_names": [
+    "Above ear - pull hair",
+    "Cheek - pinch skin",
+    "Drink from bottle/cup",
+    "Eyebrow - pull hair",
+    "Eyelash - pull hair",
+    "Feel around in tray and pull out an object",
+    "Forehead - pull hairline",
+    "Forehead - scratch",
+    "Glasses on/off",
+    "Neck - pinch skin",
+    "Neck - scratch",
+    "Pinch knee/leg skin",
+    "Pull air toward your face",
+    "Scratch knee/leg skin",
+    "Text on phone",
+    "Wave hello",
+    "Write name in air",
+    "Write name on leg"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "best_epoch": 12,
+  "best_macro": 0.565930276551806,
+  "best_metrics": {
+    "acc": 0.5420503376304481,
+    "macroF1": 0.565930276551806,
+    "binaryF1": 0.9552093476144108
+  },
+  "model_path": "E:\\A1_last_version\\artifacts\\Model5_Training\\best_macro_0.5659.pt",
+  "history_csv": "E:\\A1_last_version\\results\\Model5_Training\\model5_training_history.csv"
+}

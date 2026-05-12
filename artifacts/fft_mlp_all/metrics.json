@@ -1,0 +1,12 @@
+{
+  "seed": 42,
+  "epochs": 20,
+  "lr": 0.001,
+  "batch_size": 256,
+  "input_dim": 10624,
+  "num_classes": 18,
+  "final_test_loss": 1.958075696445814,
+  "final_binary_f1": 0.902738432483475,
+  "final_macro_f1_9class": 0.3901452270186474,
+  "saved_at": "2026-02-16 17:13:41"
+}

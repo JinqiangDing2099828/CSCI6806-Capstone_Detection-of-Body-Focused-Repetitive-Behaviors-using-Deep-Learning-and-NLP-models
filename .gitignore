@@ -1,0 +1,10 @@
+# ---- model artifacts ----
+*.pth
+*.pkl
+*_predictions.csv
+
+# ---- data ----
+data/raw/*.csv
+
+# ---- accidental nested repo ----
+2026-winter-capstone-project-2026winter-capstone-group-11/
